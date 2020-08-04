@@ -36,6 +36,9 @@ class Robot:
             self.Has_Cube = False
 
 
+
+
+
 #####  ROBOT STARTS  #####
 MyRobot = Robot(0, 0, False, 0)
 #MyRobotInfo = [str(MyRobot.Position), str(MyRobot.Arm_Position), str(MyRobot.Has_Cube), str(MyRobot.ScorePoints)]
@@ -80,3 +83,5 @@ while op != 99:
 
 #    #MyRobot.pop()
 #    MyRobotInfo = [MyRobot.Position, MyRobot.Arm_Position, MyRobot.Has_Cube, MyRobot.ScorePoints]
+
+
